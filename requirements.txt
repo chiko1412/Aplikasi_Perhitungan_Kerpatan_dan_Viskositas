@@ -1,4 +1,3 @@
 pandas
 streamlit
-request
 streamlit_lottie
